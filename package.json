@@ -1,0 +1,22 @@
+{
+  "name": "neon-crm",
+  "version": "1.0.0",
+  "description": "Port of PHP SDK https://github.com/z2systems/neon-php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothynott/neon-crm.git"
+  },
+  "keywords": [
+    "NeonCRM"
+  ],
+  "author": "Timothy Nott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothynott/neon-crm/issues"
+  },
+  "homepage": "https://github.com/timothynott/neon-crm#readme"
+}
